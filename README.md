@@ -31,7 +31,7 @@
   
  I study two programming languages 
 
- </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  
+ </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I study two programming languages 
 
  </em></p> 
 
