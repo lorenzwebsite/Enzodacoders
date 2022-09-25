@@ -28,8 +28,7 @@
 
   
 
-  <img align="rigth" alt="Coding" width="100px" src=https://miro.medium.com/max/1400/1*Urc28sbnORGOW5oyohQ06g.gif>
-
+  
  I study two programming languages 
 
  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  
@@ -41,3 +40,5 @@
   
 
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ 
+ <img align="rigth" alt="Coding" width="50px" src=https://miro.medium.com/max/1400/1*Urc28sbnORGOW5oyohQ06g.gif>
