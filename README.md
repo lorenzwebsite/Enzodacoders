@@ -29,9 +29,9 @@
   
 
   
- I study two programming languages 
+ 
 
- </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I study two programming languages 
+ </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I study two programming languages 
 
  </em></p> 
 
