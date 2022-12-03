@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, nice to see you.</h1> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Carter+One&pause=1000&background=FFFFFF00&center=true&width=350&height=40&lines=I'm+++Lorenz+Camo;I'm+20+year+old+;Aspiring-+Web+Developer;OR + Software+Engineer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Carter+One&pause=1000&background=FFFFFF00&center=true&width=350&height=40&lines=I'm+++Lorenz+Camo;I'm+20+year+old+;Aspiring-+Web+Developer;OR+Software+Engineer)](https://git.io/typing-svg) 
 
 
 
